@@ -1,0 +1,19 @@
+[
+  { "from": "/home/", "to": "/" },
+  { "from": "/home/product-design/", "to": "/process/product-design/" },
+  { "from": "/home/ui-design/", "to": "/process/ui-design/" },
+  { "from": "/home/ux-design/", "to": "/process/ux-design/" },
+  { "from": "/home/user-research/", "to": "/process/user-research/" },
+  {
+    "from": "/home/case-study-enterprise-journey-mapping-to-accelerate-enterprise-decision-making/",
+    "to": "/case-studies/journey-mapping/"
+  },
+  {
+    "from": "/home/case-study-designing-a-decision-support-dashboard-for-enterprise-leaders/",
+    "to": "/case-studies/decision-support-dashboard/"
+  },
+  {
+    "from": "/home/case-study-building-an-enterprise-design-system-in-a-regulated-environment/",
+    "to": "/case-studies/design-system/"
+  }
+]
