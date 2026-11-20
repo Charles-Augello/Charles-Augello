@@ -1,4 +1,4 @@
- a Senior UX & Product Designer with 20+ years creating intuitive, user-centered digital experiences across financial services, retail, and enterprise platforms. I combine deep interaction design expertise with a strategic mindset—translating research, data insights, and cross-functional collaboration into solutions that drive measurable business outcomes.
+Charles Augello is a Senior UX & Product Designer with 20+ years creating intuitive, user-centered digital experiences across financial services, retail, and enterprise platforms. I combine deep interaction design expertise with a strategic mindset—translating research, data insights, and cross-functional collaboration into solutions that drive measurable business outcomes.
 
 My work has improved application completion rates, reduced support call volume, decreased customer complaints, and delivered scalable design systems that support organizations at every maturity level. I thrive in environments where thoughtful systems thinking, empathy, and bold ideas come together to solve real problems for users and the business.
 
